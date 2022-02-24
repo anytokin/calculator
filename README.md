@@ -2,7 +2,7 @@
 
 ```sh
 pip install numpy
-pip install calculator
+pip install powerfull-calculator
 ```
 
 ## Usage

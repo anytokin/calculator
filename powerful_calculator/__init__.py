@@ -1,3 +1,3 @@
 """Let's do some numbers!"""
 
-__version__ = "0.1.0"
+__version__ = "0.1"
