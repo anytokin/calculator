@@ -72,6 +72,7 @@ class Calculator():
     def get_state(self):
         return self.state
 
+
 if __name__ == '__main__':
     import doctest
     print(doctest.testmod())
