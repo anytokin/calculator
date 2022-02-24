@@ -10,6 +10,7 @@ class Calculator():
     addition, subtraction, dividion, multiplication and root (n).
     This class stores in memory given number on which operations can be performed.
 
+    >>> from powerful_calculator.powerful_calculator import Calculator
     >>> calc = Calculator()
     >>> calc.add(0.1)
     0.1
@@ -24,6 +25,8 @@ class Calculator():
     >>> calc.root(1/3)
     -1000.0
     >>> calc.reset()
+    0.0
+    >>> calc.get_state
     0.0
     """
 

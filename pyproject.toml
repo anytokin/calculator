@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "powerful-calculator"
-version = "0.1.0"
+version = "0.1.6"
 description = "Calculator for basic operation"
 authors = ["Dawid Konard Kohnke <dawid.kohnke.cad@gmail.com>"]
 readme = "README.md"
@@ -12,7 +12,7 @@ include = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 

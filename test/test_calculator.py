@@ -1,5 +1,4 @@
-from powerful_calculator import Calculator
-import itertools
+from powerful_calculator.powerful_calculator import Calculator
 
 calc = Calculator()
 

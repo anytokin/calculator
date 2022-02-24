@@ -21,6 +21,7 @@ Operations are perfomed on this number.
 You can get it via get_state() method.
 
 ```python
+>>> from powerful_calculator.powerful_calculator import Calculator
 >>> calc = Calculator()
 >>> calc.add(0.1)
 0.1
@@ -36,7 +37,7 @@ You can get it via get_state() method.
 -1000.0
 >>> calc.reset()
 0.0
->>> calc.get_state()
+>>> calc.get_state
 0.0
 ```
 
