@@ -4,10 +4,13 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "calculator"
+version = "3.9"
+description = "Simple calculator program"
 authors = [{name = "Dawid Konrad Kohnke", email = "dawid.kohnke.cad@gmail.com"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
-dynamic = ["version", "description"]
+readme = "README.md"
+requires-python = ">=3.9"
 
 [project.urls]
 Home = "https://github.com/anytokin/calculator"

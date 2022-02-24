@@ -9,12 +9,11 @@ pip install calculator
 
 With use of this tool you can:
 
--  add numbers
--  subtract numbers
--  multiply numbers
--  divide numbers
--  root numbers
-
+-  add numbers - via add() metod
+-  subtract numbers - via subtract() metod
+-  multiply numbers - via multiply() metod
+-  divide numbers - via divide() metod
+-  root numbers - root add() metod
 ## Before start using
 
 There is always number in memory of calculator.
