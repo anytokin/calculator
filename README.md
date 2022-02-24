@@ -15,6 +15,12 @@ With use of this tool you can:
 -  divide numbers
 -  root numbers
 
+## Before start using
+
+There is always number in memory of calculator.
+Operations are perfomed on this number.
+You can get it via get_state() method.
+
 ```python
 >>> calc = Calculator()
 >>> calc.add(0.1)
@@ -30,6 +36,8 @@ With use of this tool you can:
 >>> calc.root(1/3)
 -1000.0
 >>> calc.reset()
+0.0
+>>> calc.get_state()
 0.0
 ```
 
